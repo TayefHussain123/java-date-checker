@@ -1,3 +1,2 @@
 # java-date-checker
-This is a simple date checker project where enter a date like this format yyyy-MM-dd  and the output will be
-starting day and ending day of that week, month and year.
+This is a simple date checker project where enter a date in yyyy-MM-dd format and the output will be the start day and end day of that week, month, and year.
